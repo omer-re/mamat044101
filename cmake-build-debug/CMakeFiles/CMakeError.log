@@ -1,0 +1,16 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/omerv/OneDrive/מסמכים/GitHub/mamat044101/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_57497/fast"
+mingw32-make.exe: *** INTERNAL: readdir: Invalid argument
+.  Stop.
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/omerv/OneDrive/מסמכים/GitHub/mamat044101/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_1c428/fast"
+mingw32-make.exe: *** INTERNAL: readdir: Invalid argument
+.  Stop.
+
+
